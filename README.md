@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [aerilym.com](aerilym.com)
+- 👨‍💻 All of my projects are available at [https://aerilym.com](aerilym.com)
 
 - 📫 How to reach me **aerilymbiz@gmail.com**
 
