@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate full stack developer from Australia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aerilym&theme=darkhub" alt="aerilym" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aerilym&theme=darkhub&column=7" alt="aerilym" /></a> </p>
 
 - 🔭 I’m currently working on [PhotoPrism Helper](https://github.com/Aerilym/photoprism-helper)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aerilymbiz@gmail.com**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aerilym&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="aerilym" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aerilym&show_icons=true&locale=en&layout=compact&theme=nightowl&langs_count=8&exclude_repo=Web-A" alt="aerilym" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
