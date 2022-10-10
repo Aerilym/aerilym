@@ -20,8 +20,6 @@
 </p>
 
 <h3 align="left">Open Source Contributions:</h3>
-<div class="js-org-filter-links-container">
-    <nav class="subnav mb-2 d-flex flex-wrap">
         <a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target selected" data-hovercard-type="organization" data-hovercard-url="/orgs/apache/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Aerilym?tab=overview&amp;from=2022-01-01&amp;to=2022-12-31">
           <img class="avatar mr-1" alt="" src="https://avatars.githubusercontent.com/u/47359?s=40&amp;v=4" width="20" height="20">
           @apache
@@ -30,8 +28,6 @@
           <img class="avatar mr-1" alt="" src="https://avatars.githubusercontent.com/u/54469796?s=40&amp;v=4" width="20" height="20">
           @supabase
 </a>
-    </nav>
-  </div>
 
 
 <h3 align="left">Languages and Tools:</h3>
