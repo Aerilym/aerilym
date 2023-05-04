@@ -32,6 +32,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aerilym&show_icons=true&locale=en&theme=nightowl" alt="aerilym" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aerilym&theme=nightowl" alt="aerilym" /></p> 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/aerilym"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aerilym" /></a></p>
