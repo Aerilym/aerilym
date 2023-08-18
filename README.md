@@ -5,7 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [aerilym.com](https://aerilym.com)
 
-- 📫 How to reach me **aerilymbiz@gmail.com**
+- Working on [katapod.com](https://katapod.com)
+
+- 📫 How to reach me **ryan.miller@katapod.com**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aerilym&show_icons=true&locale=en&layout=compact&theme=nightowl&langs_count=8&exclude_repo=Web-A,aerilym.com,aerilym.github.io" alt="aerilym" />
 
