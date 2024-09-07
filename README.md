@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate full stack developer from Australia</h3>
 
-- Working on [stake.getsesion.org](https://stake.getsesion.org), [The Session Web Ecosystem](https://github.com/oxen-io/websites), [Session Desktop](https://github.com/oxen-io/session-desktop), and [katapod.com](https://katapod.com)
+- Working on [stake.getsession.org](https://stake.getsession.org), [The Session Web Ecosystem](https://github.com/oxen-io/websites), [Session Desktop](https://github.com/oxen-io/session-desktop), and [katapod.com](https://katapod.com)
 
 <h3 align="left">How to reach me:</h3>
 
