@@ -37,23 +37,30 @@
 
 <h4 align="left">Documentation:</h4>
 
-<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target selected" data-hovercard-type="organization" data-hovercard-url="/orgs/TanStack/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Aerilym?tab=overview&amp;from=2023-09-03&amp;to=2024-09-07">
+<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target selected" data-hovercard-type="organization" data-hovercard-url="/orgs/TanStack/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Aerilym?tab=overview&amp;from=2023-09-03&amp;to=2024-09-07&org=tanstack#user-activity-overview">
           <img class="avatar mr-1" alt="" src="https://avatars.githubusercontent.com/u/72518640?s=40&amp;v=4" width="20" height="20">
           @TanStack
 </a>
 
 <br />
 
-<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target selected" data-hovercard-type="organization" data-hovercard-url="/orgs/TanStack/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Aerilym?tab=overview&from=2024-01-01&to=2024-12-31">
+<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target selected" data-hovercard-type="organization" data-hovercard-url="/orgs/TanStack/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Aerilym?tab=overview&from=2024-01-01&to=2024-12-31&org=wevm#user-activity-overview">
           <img class="avatar mr-1" alt="" src="https://avatars.githubusercontent.com/u/109633172?s=40&v=4" width="20" height="20">
           @wevm
 </a>
 
 <br />
 
+<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target selected" data-hovercard-type="organization" data-hovercard-url="/orgs/Vercel/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Aerilym?tab=overview&from=2024-01-01&to=2024-12-31&org=vercel#user-activity-overview">
+          <img class="avatar mr-1" alt="" src="https://avatars.githubusercontent.com/u/14985020?s=40&v=4" width="20" height="20">
+          @vercel
+</a>
+
+<br />
+
 <h4 align="left">Employment:</h4>
 
-<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target selected" data-hovercard-type="organization" data-hovercard-url="/orgs/oxen-io/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Aerilym?tab=overview&amp;from=2023-07-09&amp;to=2024-07-10">
+<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target selected" data-hovercard-type="organization" data-hovercard-url="/orgs/oxen-io/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Aerilym?tab=overview&amp;from=2023-07-09&amp;to=2024-07-10&org=oxen-io#user-activity-overview">
           <img class="avatar mr-1" alt="" src="https://avatars.githubusercontent.com/u/35471049?s=40&amp;v=4" width="20" height="20">
           @oxen-io
 </a>
