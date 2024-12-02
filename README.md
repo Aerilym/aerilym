@@ -60,9 +60,16 @@
 
 <h4 align="left">Employment:</h4>
 
-<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target selected" data-hovercard-type="organization" data-hovercard-url="/orgs/oxen-io/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Aerilym?tab=overview&amp;from=2023-07-09&amp;to=2024-07-10&org=oxen-io#user-activity-overview">
+<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target selected" data-hovercard-type="organization" data-hovercard-url="/orgs/oxen-io/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Aerilym?tab=overview&amp;from=2024-02-01&amp;to=2024-12-20&org=oxen-io#user-activity-overview">
           <img class="avatar mr-1" alt="" src="https://avatars.githubusercontent.com/u/35471049?s=40&amp;v=4" width="20" height="20">
           @oxen-io
+</a>
+
+<br />
+
+<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target selected" data-hovercard-type="organization" data-hovercard-url="/orgs/oxen-io/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Aerilym?tab=overview&amp;from=2024-07-09&amp;to=2024-12-20&org=session-foundation#user-activity-overview">
+          <img class="avatar mr-1" alt="" src="https://avatars.githubusercontent.com/u/35471049?s=40&amp;v=4" width="20" height="20">
+          @session-foundation
 </a>
 
 <br />
