@@ -16,7 +16,6 @@
 </p>
 
 <h3 align="left">Open Source Contributions:</h3>
-https://github.com/Aerilym?tab=overview&from=2025-02-01&to=2025-02-28&org=ethereum
 
 <h4 align="left">Code:</h4>
 
@@ -78,6 +77,18 @@ https://github.com/Aerilym?tab=overview&from=2025-02-01&to=2025-02-28&org=ethere
 
 <br />
 
+<h4 align="left">Maintainer:</h4>
+<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target selected" data-hovercard-type="organization" data-hovercard-url="/orgs/web3sheet/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Aerilym?tab=overview&amp;from=2025-01-01&amp;to=2025-12-31" aria-keyshortcuts="Alt+ArrowUp">
+          <img class="avatar mr-1" alt="" src="https://avatars.githubusercontent.com/u/191185379?s=40&amp;v=4" width="20" height="20">
+          @web3sheet
+</a>
+<br/>
+<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target " data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.highlights_click&quot;,&quot;payload&quot;:{&quot;scoped_org_id&quot;:180616503,&quot;target_type&quot;:&quot;ORGANIZATION&quot;,&quot;target_url&quot;:&quot;/Aerilym?tab=overview&amp;org=katapod&amp;from=2024-01-01&amp;to=2024-12-31&quot;,&quot;originating_url&quot;:&quot;https://github.com/users/Aerilym/contributions?from=2024-01-01&amp;to=2024-12-31&amp;org=session-foundation&quot;,&quot;user_id&quot;:5667907}}" data-hydro-click-hmac="d6d1699d596b51898ca7ddd6020d9d360ca1784520d4dff943ad2e234585b1a2" data-hovercard-type="organization" data-hovercard-url="/orgs/katapod/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Aerilym?tab=overview&amp;org=katapod&amp;from=2024-01-01&amp;to=2024-12-31" aria-keyshortcuts="Alt+ArrowUp">
+          <img class="avatar mr-1" alt="" src="https://avatars.githubusercontent.com/u/142582785?s=40&amp;v=4" width="20" height="20">
+          @katapod
+</a>
+
+<br />
 
 <h3 align="left">Stats:</h3>
 
