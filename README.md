@@ -9,6 +9,10 @@
 
 - 💚 Session ONS: aerilym
 
+<h3 align="left">Support & Sponsor:</h3>
+
+If you want to support my open source work, or just want to buy me a coffee, you can donate or sponsor at [donate.aerilym.com](https://donate.aerilym.com)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aerilym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aerilym" height="30" width="40" /></a>
