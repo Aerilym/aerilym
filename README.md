@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate full stack developer from Australia</h3>
 
-- Working on [stake.getsession.org](https://stake.getsession.org), [The Session Web Ecosystem](https://github.com/oxen-io/websites), [Session Desktop](https://github.com/oxen-io/session-desktop), and [katapod.com](https://katapod.com)
+- Working on [katapod.com](https://katapod.com), [Session Desktop](https://github.com/oxen-io/session-desktop), and [stake.getsession.org](https://stake.getsession.org).
 
 <h3 align="left">How to reach me:</h3>
 
-- 📫 **aerilym@pm.me**
-
+- 📫 **work@aerilym.com**
 - 💚 Session ONS: aerilym
 
 <h3 align="left">Support & Sponsor:</h3>
